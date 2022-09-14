@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LigicIsDead
+- 👀 I’m interested in mechanical keyboards, Akira and coding
+- 🌱 I’m currently learning HTML, Javascript and Css
+- 📫 How to reach me harrislead04@gmail.com
